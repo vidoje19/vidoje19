@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vidoje.
 - 👀 I’m interested in Web Development (HTML, CSS, JS...).
 - 🌱 I’m currently learning languages for FrontEnd Developers.
-- 📫 How to reach me: 📧email: andjelicvidoje5@gmail.com or batobato281@gmail.com
+- 📫 How to reach me: 📧email: andjelicvidoje5@gmail.com or vidojeandjelic@icloud.com
 - And WhatsApp, Viber, SMS - +381655834413
 
 <!---
